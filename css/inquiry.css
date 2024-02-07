@@ -60,7 +60,7 @@ body.menu-open {
 
 .container {
     width: 100%;
-    max-width: calc(144rem + 12rem);
+    max-width: 930px;
     margin: 0 auto;
 }
 
@@ -196,13 +196,11 @@ body.menu-open {
     font-size: 19px;
 }
 
-@media (min-width:1181px){
-    .inquiry_btn button:hover{
-        color: #fff;
-        border: 1px solid transparent;
-        background-color: #003b8a;
-        transition: all 500ms;
-    }
+.inquiry_btn button:hover{
+    color: #000;
+    border: 1px solid #000;
+    background-color: #fff;
+    transition: all 500ms;
 }
 
 @media (max-width:1560px){
