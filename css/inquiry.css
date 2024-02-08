@@ -203,7 +203,7 @@ body.menu-open {
     transition: all 500ms;
 }
 
-/* @media (max-width:1560px){
+@media (max-width:1560px){
     #contact {
         padding: 12vw 7vw;
     }
@@ -219,9 +219,9 @@ body.menu-open {
     .form li div {
         margin-bottom: 48px;
     }
-} */
+}
 
-/* @media (max-width:1180px){
+@media (max-width:1180px){
     .flex {
         flex-direction: column;
     }
@@ -239,4 +239,4 @@ body.menu-open {
         width: 100%;
         padding-left: 0px;
     }
-} */
+}
